@@ -1,0 +1,279 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:2:1-36:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\3f6f045c60da13d61b3a5647718abcb3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\4f05766aa0dc0f66cdb97d2b336865ec\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\055fb8970c5c18cad827a111b385d7fb\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\f4f84465f05b6b13f51d89c21f8fd12c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database:18.0.1] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\firebase-database-18.0.1.aar\c237e96bdf2ac7dcf820633267906cb0\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-18.0.0.aar\0795b213bdac10180515dae7670e85ac\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\5b5bd8e69067c6895d407d2aa31a8cd4\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:18.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\firebase-common-18.0.0.aar\6bd349c82e7fa01f45828e50beda7145\AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.0.aar\24a2db503308cc596a03b27a5605efd2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\5c8f761fd09497377b2b790cbfb0cb23\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\ca8d3e90154132815aee21a969b8c140\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\605db3cdf150a8a86129dd447200777a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\2d380a3c4a7cd22d4ce4610884657017\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\603cc4638204e57d5bdc529b43a1cfae\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\252b5e1060ecc25d80c2cae7cf5ed977\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\97e8baa1d22f1f72b10112ea4b19c7b1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\4f49fb00bedaa93bd002e5b73759e20e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\f6633a10d89c9c21d31b038495dbd233\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\493ca1f87a36399cade61acd1808bb14\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\9a63b5fd5c6c4a4d5e914b24d9827b02\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\db39ca9386d2bd406f717bda1a208804\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\485f4770732e145419607e6c99a73c11\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\f5a973b63e6f10a4fa42afce563d7f76\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\9afb3f2dab36292489d479aa33ac90da\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\4a5a5c0166583ac6e487e2b44f6a118d\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\acbaf7d4d68c1bc2cade8b52d5e020ce\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\bd3d0b88e7501e0828d884e8a62c72a7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\dd60d61dc7f68c8bddb6790805fcba2f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\bc2a6d4b4c5632568fdefac3fb5f99dd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\b50e17332407614d5b7b1858a68a5178\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\3010faacde2b0f7240a977293eb23071\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\09303d7fcaa22a3b89466b495fbb89c2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\9f65911b3bd1baeef81e6635f13da58e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\848aa036d34e48c62292f0f53992247a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\83213df97c0f8e88fbf36fcf93524e30\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\8c4a1225565fdad7d4fe6541cae6831b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\124bc1921ec9824910982a87718cff01\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-17.0.0.aar\a1e863dfff4ec1079dfbd40c426239b3\AndroidManifest.xml:2:1-7:12
+INJECTED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:5:5-71
+	android:name
+		ADDED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:5:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:7:5-72
+	android:name
+		ADDED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:7:22-69
+application
+ADDED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:9:5-34:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\3f6f045c60da13d61b3a5647718abcb3\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\3f6f045c60da13d61b3a5647718abcb3\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\055fb8970c5c18cad827a111b385d7fb\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\055fb8970c5c18cad827a111b385d7fb\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-database:18.0.1] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\firebase-database-18.0.1.aar\c237e96bdf2ac7dcf820633267906cb0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:18.0.1] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\firebase-database-18.0.1.aar\c237e96bdf2ac7dcf820633267906cb0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-18.0.0.aar\0795b213bdac10180515dae7670e85ac\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-18.0.0.aar\0795b213bdac10180515dae7670e85ac\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\5b5bd8e69067c6895d407d2aa31a8cd4\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\5b5bd8e69067c6895d407d2aa31a8cd4\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:18.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\firebase-common-18.0.0.aar\6bd349c82e7fa01f45828e50beda7145\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:18.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\firebase-common-18.0.0.aar\6bd349c82e7fa01f45828e50beda7145\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.0.aar\24a2db503308cc596a03b27a5605efd2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.0.aar\24a2db503308cc596a03b27a5605efd2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\5c8f761fd09497377b2b790cbfb0cb23\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\5c8f761fd09497377b2b790cbfb0cb23\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\4a5a5c0166583ac6e487e2b44f6a118d\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\4a5a5c0166583ac6e487e2b44f6a118d\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\acbaf7d4d68c1bc2cade8b52d5e020ce\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\acbaf7d4d68c1bc2cade8b52d5e020ce\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\4a5a5c0166583ac6e487e2b44f6a118d\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.biomanuel97.travelmantics.InsertActivity
+ADDED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:16:9-18:20
+	android:name
+		ADDED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:16:19-49
+activity#com.biomanuel97.travelmantics.UserActivity
+ADDED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:19:9-25:20
+	android:name
+		ADDED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:19:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.biomanuel97.travelmantics.AdminActivity1
+ADDED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:26:9-52
+	android:name
+		ADDED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:26:19-49
+activity#com.biomanuel97.travelmantics.AdminActivity
+ADDED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:27:9-29:60
+	android:label
+		ADDED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:29:13-57
+	android:name
+		ADDED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:28:13-42
+activity#com.biomanuel97.travelmantics.SignUpActivity
+ADDED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:30:9-52
+	android:name
+		ADDED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:30:19-49
+activity#com.biomanuel97.travelmantics.MainActivity
+ADDED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:31:9-33:20
+	android:name
+		ADDED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml:31:19-47
+uses-sdk
+INJECTED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\3f6f045c60da13d61b3a5647718abcb3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\3f6f045c60da13d61b3a5647718abcb3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\4f05766aa0dc0f66cdb97d2b336865ec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\4f05766aa0dc0f66cdb97d2b336865ec\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\055fb8970c5c18cad827a111b385d7fb\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\055fb8970c5c18cad827a111b385d7fb\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\f4f84465f05b6b13f51d89c21f8fd12c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\f4f84465f05b6b13f51d89c21f8fd12c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:18.0.1] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\firebase-database-18.0.1.aar\c237e96bdf2ac7dcf820633267906cb0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:18.0.1] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\firebase-database-18.0.1.aar\c237e96bdf2ac7dcf820633267906cb0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-18.0.0.aar\0795b213bdac10180515dae7670e85ac\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-18.0.0.aar\0795b213bdac10180515dae7670e85ac\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\5b5bd8e69067c6895d407d2aa31a8cd4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\5b5bd8e69067c6895d407d2aa31a8cd4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:18.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\firebase-common-18.0.0.aar\6bd349c82e7fa01f45828e50beda7145\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:18.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\firebase-common-18.0.0.aar\6bd349c82e7fa01f45828e50beda7145\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.0.aar\24a2db503308cc596a03b27a5605efd2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\play-services-tasks-17.0.0.aar\24a2db503308cc596a03b27a5605efd2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\5c8f761fd09497377b2b790cbfb0cb23\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\5c8f761fd09497377b2b790cbfb0cb23\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\ca8d3e90154132815aee21a969b8c140\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\ca8d3e90154132815aee21a969b8c140\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\605db3cdf150a8a86129dd447200777a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\605db3cdf150a8a86129dd447200777a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\2d380a3c4a7cd22d4ce4610884657017\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\2d380a3c4a7cd22d4ce4610884657017\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\603cc4638204e57d5bdc529b43a1cfae\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\603cc4638204e57d5bdc529b43a1cfae\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\252b5e1060ecc25d80c2cae7cf5ed977\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\252b5e1060ecc25d80c2cae7cf5ed977\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\97e8baa1d22f1f72b10112ea4b19c7b1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\97e8baa1d22f1f72b10112ea4b19c7b1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\4f49fb00bedaa93bd002e5b73759e20e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\4f49fb00bedaa93bd002e5b73759e20e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\f6633a10d89c9c21d31b038495dbd233\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\f6633a10d89c9c21d31b038495dbd233\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\493ca1f87a36399cade61acd1808bb14\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\493ca1f87a36399cade61acd1808bb14\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\9a63b5fd5c6c4a4d5e914b24d9827b02\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\9a63b5fd5c6c4a4d5e914b24d9827b02\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\db39ca9386d2bd406f717bda1a208804\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\db39ca9386d2bd406f717bda1a208804\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\485f4770732e145419607e6c99a73c11\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\485f4770732e145419607e6c99a73c11\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\f5a973b63e6f10a4fa42afce563d7f76\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\f5a973b63e6f10a4fa42afce563d7f76\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\9afb3f2dab36292489d479aa33ac90da\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\9afb3f2dab36292489d479aa33ac90da\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\4a5a5c0166583ac6e487e2b44f6a118d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\core-1.0.0.aar\4a5a5c0166583ac6e487e2b44f6a118d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\acbaf7d4d68c1bc2cade8b52d5e020ce\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\acbaf7d4d68c1bc2cade8b52d5e020ce\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\bd3d0b88e7501e0828d884e8a62c72a7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\bd3d0b88e7501e0828d884e8a62c72a7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\dd60d61dc7f68c8bddb6790805fcba2f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\dd60d61dc7f68c8bddb6790805fcba2f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\bc2a6d4b4c5632568fdefac3fb5f99dd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\bc2a6d4b4c5632568fdefac3fb5f99dd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\b50e17332407614d5b7b1858a68a5178\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\b50e17332407614d5b7b1858a68a5178\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\3010faacde2b0f7240a977293eb23071\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\3010faacde2b0f7240a977293eb23071\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\09303d7fcaa22a3b89466b495fbb89c2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\09303d7fcaa22a3b89466b495fbb89c2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\9f65911b3bd1baeef81e6635f13da58e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\9f65911b3bd1baeef81e6635f13da58e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\848aa036d34e48c62292f0f53992247a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\848aa036d34e48c62292f0f53992247a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\83213df97c0f8e88fbf36fcf93524e30\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\83213df97c0f8e88fbf36fcf93524e30\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\8c4a1225565fdad7d4fe6541cae6831b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\8c4a1225565fdad7d4fe6541cae6831b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\124bc1921ec9824910982a87718cff01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\124bc1921ec9824910982a87718cff01\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-17.0.0.aar\a1e863dfff4ec1079dfbd40c426239b3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-17.0.0.aar\a1e863dfff4ec1079dfbd40c426239b3\AndroidManifest.xml:5:5-44
+INJECTED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Biomanuel\AndroidStudioProjects\Travelmantics\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:18.0.1] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\firebase-database-18.0.1.aar\c237e96bdf2ac7dcf820633267906cb0\AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:18.0.1] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\firebase-database-18.0.1.aar\c237e96bdf2ac7dcf820633267906cb0\AndroidManifest.xml:25:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-database:18.0.1] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\firebase-database-18.0.1.aar\c237e96bdf2ac7dcf820633267906cb0\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-database:18.0.1] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\firebase-database-18.0.1.aar\c237e96bdf2ac7dcf820633267906cb0\AndroidManifest.xml:26:22-64
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database:18.0.1] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\firebase-database-18.0.1.aar\c237e96bdf2ac7dcf820633267906cb0\AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-database:18.0.1] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\firebase-database-18.0.1.aar\c237e96bdf2ac7dcf820633267906cb0\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-database:18.0.1] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\firebase-database-18.0.1.aar\c237e96bdf2ac7dcf820633267906cb0\AndroidManifest.xml:30:13-84
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:18.0.1] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\firebase-database-18.0.1.aar\c237e96bdf2ac7dcf820633267906cb0\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:18.0.1] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\firebase-database-18.0.1.aar\c237e96bdf2ac7dcf820633267906cb0\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:18.0.1] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\firebase-database-18.0.1.aar\c237e96bdf2ac7dcf820633267906cb0\AndroidManifest.xml:33:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\5b5bd8e69067c6895d407d2aa31a8cd4\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\5b5bd8e69067c6895d407d2aa31a8cd4\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\5b5bd8e69067c6895d407d2aa31a8cd4\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\play-services-base-17.0.0.aar\5b5bd8e69067c6895d407d2aa31a8cd4\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:18.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\firebase-common-18.0.0.aar\6bd349c82e7fa01f45828e50beda7145\AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:18.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\firebase-common-18.0.0.aar\6bd349c82e7fa01f45828e50beda7145\AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:18.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\firebase-common-18.0.0.aar\6bd349c82e7fa01f45828e50beda7145\AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:18.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\firebase-common-18.0.0.aar\6bd349c82e7fa01f45828e50beda7145\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:18.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\firebase-common-18.0.0.aar\6bd349c82e7fa01f45828e50beda7145\AndroidManifest.xml:13:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\5c8f761fd09497377b2b790cbfb0cb23\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\5c8f761fd09497377b2b790cbfb0cb23\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Biomanuel\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-17.0.0.aar\5c8f761fd09497377b2b790cbfb0cb23\AndroidManifest.xml:24:13-58
