@@ -29,7 +29,7 @@ public class InsertActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_insert);
 
-        FirebaseUtil.openFbReference("traveldeals");
+        FirebaseUtil.openFbReference("traveldeals", this);
         mFirebaseDatabase = FirebaseUtil.mFirebaseDatabase;
         mDatabaseReference = FirebaseUtil.mDatabaseReference;
 
@@ -37,7 +37,7 @@ public class InsertActivity extends AppCompatActivity {
             mDeal = new TravelDeal();
         }else {
             mDealPosition = getIntent().getExtras().getInt("deal position", 0);
-            mDeal = FirebaseUtil.mDeals.get(mDealPosition);
+            mDeal = DealAdapter.deals.get(mDealPosition);
 //            mDealRef = mFirebaseDatabase.getReference("traveldeals/" + mDealPosition);
 //            mDealRef.addValueEventListener(new ValueEventListener() {
 //                @Override

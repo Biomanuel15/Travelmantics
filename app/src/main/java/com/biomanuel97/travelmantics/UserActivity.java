@@ -6,6 +6,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.Menu;
@@ -31,12 +32,6 @@ public class UserActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_user);
-
-        RecyclerView tdrv = (RecyclerView) findViewById(R.id.holiday_deals_rv);
-        final DealAdapter adapter = new DealAdapter();
-        tdrv.setAdapter(adapter);
-        LinearLayoutManager dealsLayoutManager = new LinearLayoutManager(this, LinearLayoutManager.VERTICAL, false);
-        tdrv.setLayoutManager(dealsLayoutManager);
     }
 
     @Override
@@ -57,5 +52,26 @@ public class UserActivity extends AppCompatActivity {
                 return super.onOptionsItemSelected(item);
         }
     }
+
+    @Override
+    protected void onPause() {
+        super.onPause();
+        FirebaseUtil.detachListener();
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+
+        FirebaseUtil.openFbReference("traveldeals", this);
+        RecyclerView tdrv = (RecyclerView) findViewById(R.id.holiday_deals_rv);
+        final DealAdapter adapter = new DealAdapter(this);
+        tdrv.setAdapter(adapter);
+        LinearLayoutManager dealsLayoutManager = new LinearLayoutManager(this, LinearLayoutManager.VERTICAL, false);
+        tdrv.setLayoutManager(dealsLayoutManager);
+
+        FirebaseUtil.attachListener();
+    }
+
 }
 

@@ -4,6 +4,23 @@
             "outputFile": "C:\\Users\\Biomanuel\\AndroidStudioProjects\\Travelmantics\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
+                    "source": "C:\\Users\\Biomanuel\\.gradle\\caches\\transforms-1\\files-1.1\\media-1.0.0.aar\\5779ef56338bf2beb4e161b77d2e7d5b\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,121,182,248",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "116,177,243,310"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "347,413,474,540",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "408,469,535,602"
+                    }
+                },
+                {
                     "source": "C:\\Users\\Biomanuel\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-1.0.0.aar\\4f05766aa0dc0f66cdb97d2b336865ec\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3",
