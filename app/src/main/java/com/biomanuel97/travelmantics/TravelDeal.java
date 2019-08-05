@@ -1,11 +1,14 @@
 package com.biomanuel97.travelmantics;
 
-public class TravelDeal {
+import java.io.Serializable;
+
+public class TravelDeal implements Serializable {
     private String id;
     private String title;
     private String description;
     private String price;
     private String imageUrl;
+    private String imageName;
 
     public TravelDeal() {
         this.id = "";
@@ -15,12 +18,21 @@ public class TravelDeal {
         this.imageUrl = "";
     }
 
-    public TravelDeal(String title, String description, String price, String imageUrl) {
+    public TravelDeal(String title, String description, String price, String imageUrl, String imageName) {
         this.id = id;
         this.title = title;
         this.description = description;
         this.price = price;
         this.imageUrl = imageUrl;
+        this.setImageName(imageName);
+    }
+
+    public String getImageName() {
+        return imageName;
+    }
+
+    public void setImageName(String imageName) {
+        this.imageName = imageName;
     }
 
     public String getId() {
