@@ -21,11 +21,10 @@
         android:debuggable="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
-        android:roundIcon="@mipmap/ic_launcher_round"
+        android:roundIcon="@mipmap/ic_launcher_foreground"
         android:supportsRtl="true"
+        android:testOnly="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.biomanuel97.travelmantics.InsertActivity" >
-        </activity>
         <activity android:name="com.biomanuel97.travelmantics.UserActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -33,10 +32,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.biomanuel97.travelmantics.AdminActivity1" />
-        <activity
-            android:name="com.biomanuel97.travelmantics.AdminActivity"
-            android:label="@string/title_activity_admin" />
+        <activity android:name="com.biomanuel97.travelmantics.AdminActivity" />
         <activity android:name="com.biomanuel97.travelmantics.SignUpActivity" />
         <activity android:name="com.biomanuel97.travelmantics.MainActivity" >
         </activity>
@@ -138,6 +134,9 @@
                 android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
                 android:value="com.google.firebase.components.ComponentRegistrar" />
             <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
                 android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
                 android:value="com.google.firebase.components.ComponentRegistrar" />
         </service>
@@ -177,6 +176,10 @@
             android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
             android:authorities="com.biomanuel97.travelmantics.lifecycle-process"
             android:exported="false"
+            android:multiprocess="true" />
+        <provider
+            android:name="com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="com.biomanuel97.travelmantics.com.android.tools.ir.server.InstantRunContentProvider"
             android:multiprocess="true" />
     </application>
 

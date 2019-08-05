@@ -1134,6 +1134,7 @@ drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable travel
 id ALT
 id CTRL
 id FUNCTION
@@ -1153,6 +1154,7 @@ id action_context_bar
 id action_divider
 id action_image
 id action_insert
+id action_log_out
 id action_menu_divider
 id action_menu_presenter
 id action_mode_bar
@@ -1211,6 +1213,7 @@ id custom
 id customPanel
 id dark
 id deal_detail
+id deal_image
 id decor_content_parent
 id default_activity_button
 id delete_menu
@@ -1229,9 +1232,7 @@ id email
 id email_button
 id email_footer_tos_and_pp_text
 id email_layout
-id email_login_form
 id email_sign_btn
-id email_sign_in_button
 id email_top_layout
 id email_tos_and_pp_text
 id end
@@ -1266,7 +1267,6 @@ id icon_group
 id icon_only
 id ifRoom
 id image
-id imageView
 id info
 id invisible
 id invisible_frame
@@ -1280,8 +1280,6 @@ id line1
 id line3
 id listMode
 id list_item
-id login_form
-id login_progress
 id logo
 id main_tos_and_pp
 id masked
@@ -1386,10 +1384,7 @@ id textView
 id textView2
 id text_email
 id text_fullname
-id text_holiday_detail
-id text_holiday_location
 id text_input_password_toggle
-id text_price
 id text_title
 id textinput_counter
 id textinput_error
@@ -1480,8 +1475,6 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_admin
-layout activity_admin1
-layout activity_insert
 layout activity_main
 layout activity_sign_up
 layout activity_user
@@ -1549,6 +1542,8 @@ layout support_simple_spinner_dropdown_item
 menu save_menu
 menu user_activity_menu
 mipmap ic_launcher
+mipmap ic_launcher_background
+mipmap ic_launcher_foreground
 mipmap ic_launcher_round
 plurals fui_error_weak_password
 string abc_action_bar_home_description
@@ -1729,6 +1724,8 @@ string google_crash_reporting_api_key
 string google_storage_bucket
 string hide_bottom_view_on_scroll_behavior
 string holiday_detail
+string insert_menu_title
+string log_out_menu_title
 string mtrl_chip_close_icon_content_description
 string password_toggle_content_description
 string path_password_eye

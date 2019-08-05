@@ -24,4 +24,6 @@
     <string name="price_hint">Price (numbers only)</string>
     <string name="description_hint">Description</string>
     <string name="save_menu">SAVE</string>
+    <string name="insert_menu_title">New Travel Deal</string>
+    <string name="log_out_menu_title">Log out</string>
 </resources>

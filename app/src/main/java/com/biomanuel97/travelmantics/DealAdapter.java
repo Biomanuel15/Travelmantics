@@ -29,7 +29,7 @@ public class DealAdapter extends RecyclerView.Adapter<DealAdapter.DealViewHolder
     private ChildEventListener mChildListener;
     private Context mContext;
 
-    public DealAdapter(Activity caller) {
+    public DealAdapter(UserActivity caller) {
         FirebaseUtil.openFbReference("traveldeals", caller);
         mFirebaseDatabase = FirebaseUtil.mFirebaseDatabase;
         mDatabaseReference = FirebaseUtil.mDatabaseReference;
@@ -113,7 +113,7 @@ public class DealAdapter extends RecyclerView.Adapter<DealAdapter.DealViewHolder
             int position = getAdapterPosition();
             Log.d("Click", String.valueOf(position));
             TravelDeal selectedDeal = deals.get(position);
-            Intent intent = new Intent(mContext, InsertActivity.class);
+            Intent intent = new Intent(mContext, AdminActivity.class);
             intent.putExtra("deal position", position);
             mContext.startActivity(intent);
         }
